@@ -20,7 +20,7 @@ Here's my blogs:
 
 ### Others
 
-- [Data Migration Strategies in Ruby on Rails: The Right Way to Manage Missing Data](https://dev.to/vladhilko/data-migration-strategies-in-ruby-on-rails-the-right-way-to-manage-missing-data-3dbe)
+- [Data Migration Strategies in Ruby on Rails](https://dev.to/vladhilko/data-migration-strategies-in-ruby-on-rails-the-right-way-to-manage-missing-data-3dbe)
 - [Managing Feature Release Strategies with Feature Flags in Ruby on Rails](https://dev.to/vladhilko/managing-feature-release-strategies-with-feature-flags-in-ruby-on-rails-124b)
 
 <!--
