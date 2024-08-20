@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here's my blogs:
-
 ### Code Review
 
 - [How to Conduct High-Quality Code Review?](https://dev.to/vladhilko/how-to-conduct-high-quality-code-review-2loo)
